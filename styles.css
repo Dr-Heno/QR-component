@@ -7,11 +7,13 @@ body{
     font-family: Outfit, sans-serif;
     font-size: 19px;
     background-color: hsl(0, 0%, 100%);
-    width: 350px;
+    width: 345px;
     margin: auto;
-    padding: 15px;
-    border-radius: 15px;
+    margin-top: 183px;
+    padding: 20px;
+    border-radius: 20px;
     text-align: center;
+    
 }
 .qr-card h1{
     color: hsl(218, 44%, 22%);
@@ -27,7 +29,7 @@ body{
 
 .qr-card img{
     width: 100%;
-    border-radius: 8px;
+    border-radius: 10px;
 }
 
 .attribution { font-size: 20px; text-align: center; }
