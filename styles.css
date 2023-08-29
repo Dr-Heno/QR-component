@@ -8,8 +8,7 @@ body{
     font-size: 19px;
     background-color: hsl(0, 0%, 100%);
     width: 345px;
-    margin: auto;
-    margin-top: 183px;
+    margin: 183px auto;
     padding: 20px;
     border-radius: 20px;
     text-align: center;
